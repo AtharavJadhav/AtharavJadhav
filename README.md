@@ -3,16 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/atharav_873" target="blank"><img src="https://img.shields.io/twitter/follow/atharav_873?logo=twitter&style=for-the-badge" alt="atharav_873" /></a> </p>
 
-- 🔭 I’m currently working on [3D Object reconstruction from 2D objects](https://github.com/AtharavJadhav/2D-3D)
-
-- 🌱 I’m currently learning **Tensorflow, OpenCV, Kubernetes and SciKit Learn**
-
-- 👯 I’m looking to collaborate on [Machine Learning price prediction](https://github.com/AtharavJadhav/Hotel_Rates_Nueral_Networks)
-
-- 🤝 I’m looking for help with [Neural Networks and Kubernetes](https://github.com/AtharavJadhav/multi-docker)
-
-- 💬 Ask me about **Docker and Machine Learning**
-
 - 📫 How to reach me **reagleatharav@gmail.com**
 
 - ⚡ Fun fact **I haven't really watched a lot of movies**
